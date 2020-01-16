@@ -1,0 +1,1 @@
+{"Name":"Wizard","HP":100,"Shield":{"name":"Shield","shape":"Circle","type":"Metal"},"Power":{"name":"Force Jump","powerLevel":50},"Backpack":[{"healthPoints":50},{"healthPoints":100},{"healthPoints":150},{"healthPoints":250},{"healthPoints":350},{"healthPoints":450},{"healthPoints":550}]}
